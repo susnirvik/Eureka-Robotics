@@ -15,8 +15,6 @@ To run the PRM algorithm and visualize it, follow these steps:
 2. Navigate to the repository directory.
 3. Run the main PRM algorithm.
 
-Additionally, you can use path shortcutting to improve generated paths. The `path_shortcutting` provides path shortcutting functionality.
-
 ## Dependencies
 
 - `numpy`
@@ -26,10 +24,12 @@ Make sure you have these libraries installed in your Python environment.
 
 Additionally, you can use path shortcutting to improve generated paths. The `path_shortcutting` function provides path shortcutting functionality.
 
-## Dependencies
+## Questions
 
-- `numpy`
-- `pylab`
+Source:https://osrobotics.org/osr/planning/post_processing.html
+
+1.Implement the PRM algorithm described earlier to solve this problem instance. Generate other query instances and environment instances and test your algorithm.
+2.Implement in Python the above algorithm to post-process the paths found in Section Path planning.
 
 Make sure you have these libraries installed in your Python environment.
 
